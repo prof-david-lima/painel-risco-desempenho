@@ -32,7 +32,8 @@ Auxiliar o acompanhamento pedagógico e a tomada de decisão em contextos inclus
 
 ## 🔗 Acesse os Arquivos
 
-📁 [Pasta do projeto no Google Drive] [https://drive.google.com/open?id=1rcOOhpWI8gOUyLYUJF8DV8GMW60FamvN&usp=drive_fs](https://drive.google.com/file/d/1rcOOhpWI8gOUyLYUJF8DV8GMW60FamvN/view)
+📑 [Visualizar o PDF explicativo do projeto](https://drive.google.com/file/d/1rcOOhpWI8gOUyLYUJF8DV8GMW60FamvN/view)
+
 
 ## 📈 Próximos Passos
 
