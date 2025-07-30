@@ -41,6 +41,11 @@ Auxiliar o acompanhamento pedagógico e a tomada de decisão em contextos inclus
 - Evoluir o painel para Power BI com interatividade
 - Integrar a outros painéis educacionais no portfólio
 
+- ## 📄 Relatório em PDF
+
+[Relação entre Faltas e Notas – Versão Final do Projeto](./Relação%20entre%20Faltas%20e%20Notas.pdf)
+
+
 ---
 
 ## 👨‍🏫 Autor
