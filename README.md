@@ -1,26 +1,40 @@
-# Painel Escolar de Risco e Desempenho por Perfil
+# 📊 Painel Escolar de Risco e Desempenho por Perfil
 
-Este projeto foi criado com o objetivo de monitorar, de forma visual e acessível, o total de faltas de alunos agrupados por perfil de aprendizagem (como TDAH, Dislexia, Discalculia, Autismo, Baixa Visão). A ferramenta ajuda professores e gestores escolares a identificar rapidamente situações de risco educacional e agir preventivamente.
+Este painel apresenta dados simulados de 12 estudantes, com foco em inclusão educacional. Os dados contemplam características como TEA, baixa visão, TDAH e outros perfis de estudantes. O objetivo é oferecer uma visualização clara da relação entre desempenho acadêmico e indicadores de risco, como frequência e média geral.
 
----
-
-## 🎯 Objetivo
-
-Auxiliar o acompanhamento pedagógico e a tomada de decisão em contextos inclusivos, utilizando dados simples e visuais com foco em prevenção da evasão e apoio individualizado.
+Foram utilizados gráficos desenvolvidos no Power BI Desktop, com base em planilha Excel, permitindo a identificação de padrões e situações que exigem intervenção pedagógica.
 
 ---
 
-## 📊 O que a planilha faz
+## 🎯 Objetivos do Projeto
 
-- Registra faltas mensais (Maio e Junho)
-- Calcula o total de faltas por aluno
-- Classifica os estudantes por perfil de aprendizagem
-- Gera um gráfico de colunas com alerta de risco por cor:
-  - 🟢 Até 5 faltas → Situação estável  
-  - 🟡 6 a 10 faltas → Atenção  
-  - 🔴 Mais de 10 faltas → Risco elevado
+- Explorar visualmente a relação entre médias e faltas
+- Simular análises escolares com foco em educação inclusiva
+- Apresentar um modelo de painel aplicável em escolas reais
+- Compor um portfólio para transição de carreira em dados e educação
 
 ---
+
+## 🛠️ Ferramentas Utilizadas
+
+- Microsoft Excel  
+- Power BI Desktop  
+- GitHub
+
+---
+
+## 📄 Relatório Final em PDF
+
+[Relação entre Faltas e Notas – Versão Final do Projeto](./Relação%20entre%20Faltas%20e%20Notas.pdf)
+
+---
+
+## 🔜 Próximos Passos
+
+- Construção de nova base de dados em formato longo
+- Análises por disciplina, perfil e série
+- Segmentações interativas e filtros no Power BI
+- Aplicações práticas em contextos escolares diversos
 
 ## 📂 Conteúdo do Projeto
 
